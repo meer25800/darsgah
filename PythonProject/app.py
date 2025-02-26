@@ -5,7 +5,7 @@ st.markdown(
     """
     <style>
     body {
-        background-color: #f4f4f9;
+        background-color: #000000;
     }
     .stButton > button {
         background-color: #008CBA;  /* Blue color for buttons */
